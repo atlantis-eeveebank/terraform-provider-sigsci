@@ -53,7 +53,7 @@ release:
 # If you want to manually examine the release before its live, uncomment this line:
 # draft: true
   github:
-    owner: signalsciences
+    owner: atlantis-eeveebank
     name: terraform-provider-sigsci
   name_template: "{{.ProjectName}}-v{{.Version}}"
 changelog:
